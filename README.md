@@ -4,7 +4,7 @@
 
 - 标题展开(收缩)item_cell
 
-  ##### ![](/Users/cdct/Desktop/up_down_cell.png)
+  ##### ![](./imgs/up_down_cell.png)
 
   ##### ![](./imgs/down_cell.png)
 
