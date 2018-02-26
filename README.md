@@ -4,7 +4,7 @@
 
 #### 列表样式
 
-##### cdm_cell_title_subIcon_ani
+##### CDM_Cell_title_subIcon_ani
 
 - 标题展开(收缩)item_cell
 
@@ -12,55 +12,55 @@
 
   ##### ![](./imgs/down_cell.png)
 
-##### cdm_cell_icon_main_sub_title
+##### CDM_Cell_icon_main_sub_title
 
 - 图标、主标题、子标题 item_cell 
 
   ##### ![icon_main_sub_title_cell](./imgs/icon_main_sub_title_cell.png)
 
-##### cdm_cell_icon_title_arrow
+##### CDM_Cell_icon_title_arrow
 
 - 图标、标题 item_cell 
 
   ##### ![icon_cell](./imgs/icon_cell.png)
 
-##### cdm_cell_icon_title_btn
+##### CDM_Cell_icon_title_btn
 
 - 小图标、标题、副按钮 item_cell 
 
   ##### ![icon_title_cell](./imgs/icon_title_cell.png)
 
-##### cdm_cell_title_edit
+##### CDM_Cell_title_edit
 
 - 标题 输入 item_cell 
 
   ##### ![input_cell](./imgs/input_cell.png)
 
-##### cdm_cell_title_select
+##### CDM_Cell_title_select
 
 - 选择 item_cell 
 
   ##### ![text_cell](./imgs/text_cell.png)
 
-##### cdm_cell_icon_title_subtitle_arrow
+##### CDM_Cell_icon_title_subtitle_arrow
 
 - 图标 标题 副标题带小箭头 
 
   ##### ![main_icon_subtitle_cell](./imgs/main_icon_subtitle_cell.png)
 
-##### cdm_cell_news_more
+##### CDM_Cell_news_more
 
 - 新闻 多张图片 item_cell 
 
   ##### ![new_more_cell](./imgs/new_more_cell.png)
 
-##### cdm_cell_news_one
+##### CDM_Cell_news_one
 
 - 新闻 一张张图片 item_cell 
 
   ##### ![new_more_cell](./imgs/news_one_cell.png)
 
-##### cdm_cell_title_img
+##### CDM_Cell_title_img
 
 - 头像item_cell 
 
@@ -69,7 +69,7 @@
 
 #### 按钮
 
-##### cdm_gradient_btn
+##### CDM_Gradient_btn
 
 - 居中操作按钮 
 
@@ -77,7 +77,7 @@
 
   ##### ![](./imgs/big_btn.png)
 
-##### cdm_gradient_btn_full
+##### CDM_Gradient_btn_full
 
 - 底部固定按钮
 
@@ -87,44 +87,44 @@
 
 #### View
 
-##### cdm_upload_view
+##### CDM_Upload_view
 
 - 上传图片 
 
   ##### ![upload_img](./imgs/upload_img.png)
 
 
-##### cdm_grid
+##### CDM_Grid
 
 - 宫格视图  
 
   ##### ![](./imgs/grid_view.png)
 
-##### cdm_tag_view
+##### CDM_Tag_view
 
 - 不定长度的按钮视图
 
   ##### ![](./imgs/tag_view.png)
 
-##### cdm_limit_textview
+##### CDM_Limit_textview
 
 - 带字数提示的文本输入 
 
   ##### ![](./imgs/tip_textview.png)
 
-##### cdm_shadow_view
+##### CDM_Shadow_view
 
 - 阴影背景 
 
   ##### ![shadow_view](./imgs/shadow_view.png)
 
-##### cdm_scroll_menu
+##### CDM_Scroll_menu
 
 - 滚动菜单 
 
   ##### ![scroll_titleview](./imgs/scroll_titleview.png)
 
-##### cdm_search_bar
+##### CDM_Search_bar
 
 - 搜索框 
 
@@ -132,7 +132,7 @@
 
 #### 输入框
 
-##### cdm_icon_input
+##### CDM_Icon_input
 
 - 带左(右)图标的输入框
 
