@@ -2,23 +2,23 @@
 
 #### 列表样式
 
-- 图标、主标题、子标题 item-cell
+- 图标、主标题、子标题 item_cell
 
 ##### ![icon_main_sub_title_cell](./imgs/icon_main_sub_title_cell.png)
 
-- 图标、标题 item-cell
+- 图标、标题 item_cell
 
 ##### ![icon_cell](./imgs/icon_cell.png)
 
-- 小图标、标题、副按钮 item-cell
+- 小图标、标题、副按钮 item_cell
 
 ##### ![icon_title_cell](./imgs/icon_title_cell.png)
 
-- 标题 输入 item-cell
+- 标题 输入 item_cell
 
 ##### ![input_cell](./imgs/input_cell.png)
 
-- 选择 item-cell
+- 选择 item_cell
 
 ##### ![text_cell](./imgs/text_cell.png)
 
@@ -26,12 +26,12 @@
 
 ##### ![main_icon_subtitle_cell](./imgs/main_icon_subtitle_cell.png)
 
-- 新闻 多张图片 item-cell
+- 新闻 多张图片 item_cell
 ##### ![new_more_cell](./imgs/new_more_cell.png)
-- 新闻 一张张图片 item-cell
+- 新闻 一张张图片 item_cell
 ##### ![new_more_cell](./imgs/news_one_cell.png)
 
-- 头像item-cell
+- 头像item_cell
 
 ##### ![profile_cell](./imgs/profile_cell.png)
 
