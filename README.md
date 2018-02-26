@@ -68,3 +68,9 @@
 
   ##### ![search_bar](./imgs/search_bar.png)
 
+
+#### 输入框
+
+##### 带左(右)图标的输入框【有提示placeholder】
+
+##### ![](./imgs/ic_input_textfiled.png)
