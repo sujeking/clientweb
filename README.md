@@ -69,7 +69,7 @@
 
 - 宫格视图
 
-  ##### ![](/Users/cdct/Desktop/grid_view.png)
+  ##### ![](./imgs/grid_view.png)
 
 - 不定长度的按钮视图【tag view】
 
