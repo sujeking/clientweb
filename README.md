@@ -77,13 +77,6 @@
 
   ##### ![](./imgs/big_btn.png)
 
-##### CDM_Gradient_btn_full
-
-- 底部固定按钮
-
-  ##### ![full_btn](./imgs/full_btn.png)
-
-
 
 #### View
 
